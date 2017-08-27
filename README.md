@@ -1,8 +1,11 @@
 # Development Progress #
 * **Structure Core Functionality**
-    * **Design Soundex Phonectif Algorithm**
+    * **Design Service Manager**
+         * **Design Map Loading Service for managing maps players can play**
+         * **Design Mutex Service for managing connections between servers**
 * **Structure Map Loading**
     * **Design Asynchronous Map Loading System [FAWE]**
+* **Front End Functionality**
 
 ## Module Library ##
 
