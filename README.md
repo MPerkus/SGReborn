@@ -1,8 +1,8 @@
 # Development Progress #
 * **Structure Core Functionality**
-    * **Design Asynchronous Map Loading System [FAWE]**
     * **Design Soundex Phonectif Algorithm**
-Structure Map Loading
+* **Structure Map Loading**
+    * **Design Asynchronous Map Loading System [FAWE]**
 
 ## Module Library ##
 
